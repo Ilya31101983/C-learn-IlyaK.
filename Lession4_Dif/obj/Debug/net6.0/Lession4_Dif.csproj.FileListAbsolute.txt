@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\bin\Debug\net6.0\Lession4_Dif.exe
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\bin\Debug\net6.0\Lession4_Dif.deps.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\bin\Debug\net6.0\Lession4_Dif.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\bin\Debug\net6.0\Lession4_Dif.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\bin\Debug\net6.0\Lession4_Dif.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\refint\Lession4_Dif.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\Lession4_Dif.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\homework\Examples\Lession4_Dif\obj\Debug\net6.0\ref\Lession4_Dif.dll
